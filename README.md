@@ -1,8 +1,12 @@
 Ansible Assignment
-Tasks
+Tasks:
+
 ● Write a tasks file that installs vim and zip on the servers.
+
 ● Write an ansible role called common that uses the role from task 1.
+
 ● Write a playbook to call your role from the main directory.
+
 ● Add an inventory file.
 
 Challenge
